@@ -1,0 +1,71 @@
+body{
+    background-color: whitesmoke;
+}
+
+header {
+    background-color: whitesmoke;
+    text-align: center;
+}
+#hangman-wrap {
+  display: flex;
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+
+#hangman-left {
+  width: 30%;
+  padding: 10px 0;
+  text-align: center;
+  background: whitesmoke;
+}
+#hangman-img {
+  max-width: 100%;
+  transition: all 0.3s;
+  opacity: 0;
+}
+
+
+#hangman-right {
+  padding: 10px;
+  width: 70%;
+  background: whitesmoke;
+}
+#hangman-char input[type=button], #hangman-reset {
+  font-size: 1.3em;
+  padding: 5px;
+}
+
+#hangman-words {
+  margin-bottom: 10px;
+}
+#hangman-words span {
+  display: inline-block;
+  margin: 5px;
+  font-size: 2em;
+}
+
+#hangman-char {
+  display: flex;
+  flex-wrap: wrap;
+}
+#hangman-char input[type=button] {
+  margin: 2px;
+}
+#hangman-char input[type=button]:disabled {
+  background: #7b7b7b;
+  color: #c3c3c3;
+}
+/* reset */
+#hangman-bottom {
+  margin-top: 10px;
+}
+#hangman-reset {
+  margin-bottom: 5px;
+}
+
+html, body {
+  font-family: arial, sans-serif;
+  padding: 0;
+  margin: 0;
+}
