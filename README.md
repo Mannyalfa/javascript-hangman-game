@@ -38,7 +38,7 @@ none
 MIT [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Image
-![screenshot]()
+![screenshot](https://github.com/Mannyalfa/javascript-hangman-game/blob/main/assets/images/screenshot.png)
 
 ## Languages/Applications
 HTML, CSS, javaScript
