@@ -23,7 +23,7 @@ JavaScript Hangman Game
 10. [Credits](#credits)
 
 ## Description
-A Hangman game using HTML, CSS 7 javaScript
+A Hangman game using HTML, CSS & javaScript
 
 Hangman is a simple game that revolves around guessing a randomly chosen word.
 The player chooses a letter, a correct letter will appear in the blank space(s) and
@@ -44,7 +44,7 @@ MIT [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https
 HTML, CSS, javaScript
 
 ## Repository URL
-https://github.com/Mannyalfa/javascript-hangman-game
+https://github.com/Mannyalfa/javascript-hangman-game 
 
 ## Test
 
